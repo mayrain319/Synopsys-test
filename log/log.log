@@ -1,0 +1,8 @@
+2016-01-31 17:43:09 [ main ] formula is add(1,2)
+2016-01-31 17:43:09 [ main ] result is 3
+2016-01-31 17:55:48 [ main ] formula is let(a,let(b,10,add(b,b)),let(b,20,add(a,b)))
+2016-01-31 17:55:48 [ main ] result is 40
+2016-01-31 18:23:00 [ main ] formula is let(a,let(b,10,add(b,b)),let(b,20,add(a,b)))
+2016-01-31 18:23:00 [ main ] result is 40
+2016-01-31 18:48:31 [ main ] formula is let(a,let(b,10,add(b,b)),let(b,20,add(a,b)))
+2016-01-31 18:48:31 [ main ] result is 40
